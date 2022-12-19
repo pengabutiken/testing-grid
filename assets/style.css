@@ -7,3 +7,22 @@ body {
     text-align: center;
     font-style:normal;
 }
+.green-box{
+    height: 20px;
+    width: 20px;
+    background-color: green;
+    margin: 5px;
+
+}
+.red-box{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    margin: 5px;
+}
+.blue-box{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    margin:5px;
+}
